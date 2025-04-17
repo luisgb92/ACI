@@ -2,5 +2,5 @@
 ## Subtitulo
 
 ```
-**leaf# show system internal epm endpoint**
+**leaf#** show system internal epm endpoint
 ```
